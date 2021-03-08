@@ -183,7 +183,7 @@ body {
 .flow {
     padding-top: 70px;
     padding-bottom: 219px;
-    background-image: url("images/flow_bg_img.png");
+    background-image: url("images/flow.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -355,6 +355,7 @@ body {
         padding-bottom: 498px;
         padding-left: 64px;
         padding-right: 65px;
+        background-image: url("images/flow.png");
     }
 
     .text_flow-p {
@@ -626,6 +627,7 @@ body {
 
     .flow {
         padding-bottom: 870px;
+        background-image: url("images/flow.png")
     }
 
     .flow_center {
