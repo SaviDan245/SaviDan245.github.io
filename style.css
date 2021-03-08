@@ -626,6 +626,7 @@ body {
 
     .flow {
         padding-bottom: 870px;
+        background-image: url("images/flow.png")
     }
 
     .flow_center {
